@@ -12,3 +12,4 @@ a student from Hokkaido University doing some research about sharing economy, es
 
 - Loving story 
 - loving music
+- yeah
